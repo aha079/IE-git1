@@ -1,1 +1,2 @@
 now we add line to this text and then use --amend
+line2 from feature branch
